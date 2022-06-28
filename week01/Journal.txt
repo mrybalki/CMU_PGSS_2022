@@ -1,0 +1,6 @@
+#Things done today:
+- setup google collab, github, rstudio
+- dock google collab, read csv file, edit sheet and create box plots, get statistics for each collumn
+- use text blocks to separate jupyter notebook into sections
+- do much of the same in rstudio. Use markdown to create sections
+- download code from both platforms and upload to github
