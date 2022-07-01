@@ -9,4 +9,5 @@
 - Review google colab and rstudiocloud for tabular data driven analysis of a new data set (brittish searbelt study)
 - Understand the differences between categorical and continuous respnse variables : Linear regression vs classification in both r and python
 - Understand the difference in quantitative and qualitative analyses as well as the meaning of satistical testing with hypotheses (H0: Null Hypothesis, H1: Alternative Hypothesis)
--Analysis of classificatio model results using a confusion matrix
+- Analysis of classificatio model results using a confusion matrix
+- Using boxplots to evaulate the optimal operating threshold of probability of a classification model
